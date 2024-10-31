@@ -10,7 +10,7 @@
 ------------
 
 
-####Alcance
+#### Alcance
 
  **Funcionalidades:** exploración de atractivos turísticos como balnearios, reservas naturales, búsqueda y reserva de hoteles.
 **Tecnologías:** Laravel, Tailwind CSS, PHP, JavaScript.
@@ -20,7 +20,8 @@
 
 
 
-#### Público Objetivo:
+#### Público Objetivo
+
  **Turistas:** personas interesadas en visitar Teapa y sus alrededores.
 **Hoteleros y restauranteros locales:** empresas que deseen promocionar sus servicios en la plataforma.
  Arquitectura Técnica
@@ -33,6 +34,7 @@
 
 
 #### Flujo de Usuario
+
 **Registro:** creación de una cuenta de usuario.
 **Búsqueda:** exploración de atracciones, hoteles y restaurantes.
 **Detalle:** visualización detallada de hotel, restaurante, reservas naturales y sitios más visitados.
@@ -51,8 +53,8 @@
 **Metodología:** Scrum.
 **Control de versiones:** Git.
 
-
 ------------
+
 
 
 #### Pruebas
