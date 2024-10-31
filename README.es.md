@@ -2,7 +2,11 @@
 
 
 
-[![Turisteando](images/Turisteando.jpg "Turisteando")](http://https://github.com/Olan-RossMiguel/AppTurismoTeapa/blob/main/images/Turisteando.jpg "Turisteando")
+## Bienvenido a la aplicación de turismo de Teapa
+
+<img src="images/Turisteando.jpg" alt="Disfruta de Teapa" width="200">
+
+
 
 
 Turisteando Teapa, es una aplicación web diseñada para ofrecer una experiencia completa y accesible para los visitantes. Esta plataforma permite a los usuarios explorar los principales atractivos turísticos, como balnearios, restaurantes, hoteles y otros sitios destacados en Teapa, Tabasco. Además, facilita la planificación del viaje al permitir realizar reservaciones de hospedaje en tiempo real.
@@ -21,7 +25,7 @@ Turisteando Teapa, es una aplicación web diseñada para ofrecer una experiencia
 
 **Equipo:**
 
-<p>José Alberto Martínez Vázquez.</p>
-<p>Isabel Reyes Morfinez.</p>
-<p>José Enrique Suarez Salas.</p>
-<p>Jesús Miguel Olan Rosado.</p>
+- José Alberto Martínez Vázquez.
+- Isabel Reyes Morfinez.
+- José Enrique Suarez Salas.
+- Jesús Miguel Olan Rosado.
