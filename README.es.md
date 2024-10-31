@@ -21,7 +21,7 @@ Turisteando Teapa, es una aplicación web diseñada para ofrecer una experiencia
 
 **Equipo:**
 
-José Alberto Martínez Vázquez.
-Isabel Reyes Morfinez.
-José Enrique Suarez Salas.
-Jesús Miguel Olan Rosado.
+<p>José Alberto Martínez Vázquez.</p>
+<p>Isabel Reyes Morfinez.</p>
+<p>José Enrique Suarez Salas.</p>
+<p>Jesús Miguel Olan Rosado.</p>
