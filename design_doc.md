@@ -12,9 +12,9 @@
 
 #### Alcance
 
-- -  **Funcionalidades:** exploración de atractivos turísticos como balnearios, reservas naturales, búsqueda y reserva de hoteles.
-- - **Tecnologías:** Laravel, Tailwind CSS, PHP, JavaScript.
-- - **Plataforma:** aplicación web accesible desde cualquier dispositivo con conexión a internet.
+-   **Funcionalidades:** exploración de atractivos turísticos como balnearios, reservas naturales, búsqueda y reserva de hoteles.
+-  **Tecnologías:** Laravel, Tailwind CSS, PHP, JavaScript.
+- **Plataforma:** aplicación web accesible desde cualquier dispositivo con conexión a internet.
 
 ------------
 
